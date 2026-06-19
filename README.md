@@ -1,6 +1,6 @@
 # Upstox × Claude
 
-A lightweight MCP server that connects your Upstox account to Claude. Ask Claude about your portfolio in plain English — holdings, P&L, positions, funds — without copy-pasting anything.
+A lightweight MCP server that connects your Upstox account to Claude. Ask Claude about your portfolio in plain English. Holdings, P&L, positions, funds, anything and everything you without copy pasting anything.
 
 ---
 
@@ -104,4 +104,4 @@ Procfile           — tells Render how to start the server
 
 ## Disclaimer
 
-This is a personal tool, not a financial product. It reads data from your Upstox account — it cannot place orders or move money. Use it however you like, but don't blame it for your stock picks.
+This is a personal tool, not a financial product. It reads data from your Upstox account, it cannot place orders or move money. Use it however you like, but don't blame it for your stock picks. Toll works only for stock portfolio not for Mutual Fund portfolio.
