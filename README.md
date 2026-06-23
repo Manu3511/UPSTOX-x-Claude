@@ -1,6 +1,6 @@
 # Upstox × Claude
 
-A lightweight MCP server that connects your Upstox account to Claude. Ask Claude about your portfolio in plain English. Holdings, P&L, positions, funds, anything and everything you without copy pasting anything.
+A lightweight MCP server that connects your Upstox account to Claude. Ask Claude about your portfolio in plain English. 
 
 ---
 
