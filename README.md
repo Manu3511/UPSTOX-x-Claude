@@ -100,7 +100,6 @@ requirements.txt   — dependencies
 Procfile           — tells Render how to start the server
 ```
 
----
 
 ## Disclaimer
 
